@@ -1,5 +1,7 @@
 # technopadre
 
+Jogo feito para a Retrojam, game jam do canal do YouTube [Bero](https://www.youtube.com/@meunomeebero). Além de ter sido feito em apenas 4 dias, usei esse jogo para me desafiar a aprender o básico de Python e da biblioteca Curses, por isso o código está um completo caos xD
+
 # Requisitos
 
 - Python 3
